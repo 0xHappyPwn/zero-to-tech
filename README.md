@@ -4,5 +4,5 @@
 B站：零到全栈
 
 ```html
-<p>hello git and GitHub</p>
+<p>Hello git and GitHub</p>
 ```
